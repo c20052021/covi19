@@ -5,8 +5,7 @@
 // SPDX-License-Identifier: Unlicensed
 
 /**
-      #covi19(COVI19)
-   
+      #covi19(COVI19)   
    2% distribute to holders
    3% to charity wallet
    ttl supply = 5000000000
